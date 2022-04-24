@@ -1,14 +1,10 @@
 # University Career Analysis
 
-
 #
 SC1015 Mini-Project - Title: Data Science and Artificial Intelligence. 
 
 #
-In this project, we analyze the relevant numeric and categorical variables in the dataset "University Graduate Starting Income" taken from data.gov.sg. The dataset includes information of the starting salary and employment rate of students from 6 universities in Singapore from 2013 - 2019. U whether entering a top university (NUS, NTU, SMU) does guarantee the best career prospects.
-
-Please view the source code in order from:
-
+In this project, we analyze the relevant numeric and categorical variables in the dataset "University Graduate Starting Income" taken from data.gov.sg. The dataset includes information of the starting salary and employment rate of students from 6 universities in Singapore from 2013 - 2019. From the dataset, we then determine whether entering a top university (NUS, NTU, SMU) does guarantee the best career prospects.
 
 ## Contributors
 - All - Storytelling, Data Preparation & Data Cleaning, Slides & Presentation
@@ -17,32 +13,21 @@ Please view the source code in order from:
 - Colin Meehan - Exploratory Analysis & Machine Learning (Classification Tree & Random Forest Generator)
 
 ## Problem Definition
-
-- Are we able to predict if a movie is good (rating above 7.2) based on its attributes?
-- Which model would be the best to predict it?
+- Does entering a top university (NUS, NTU, SMU) guarantee the best career prospects? 
+- Furthermore, how do STEM degree holders perform compared to their counterparts in non-STEM?”
 
 ## Models Used
-
 1. Classification (Decision Tree)
 2. Random Forest
 
-## Conclusion
+## Conclusion/What we did we learn from this project?
+- It is not entirely true that graduates from top universities perform better
+- STEM (science, technology, engineering and mathematics) generally has fewer courses as compared to Non-STEM. In general, there may be a large percentage of graduates who enrolled into non-STEM as compared to STEM.
 - Random forest classifier is a better technique than the classfication tree
 - Random forest is able to handle large large volumes of data due to its complexity
 - It is impossible to visualise all the trees when using Random Forest. Therefore,
 - Classification trees is put into use as it excels in visualisation abilities
-- Collaborating using GitHub
-- 
-
-## What did we learn from this project?
-
-- Handling imbalanced datasets using resampling methods and imblearn package
-- Neural Networks, Keras and Tensorflow
-- Logistic Regression from sklearn
-- API Usage
-- Other packages such as tqdm, json, requests
-- Collaborating using GitHub
-- Concepts about Precision, Recall, and F1 Score
 
 ## References
 - https://data.gov.sg/dataset/graduate-employment-survey-ntu-nus-sit-smu-suss-sutd
+- 
