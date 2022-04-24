@@ -21,8 +21,9 @@ SC1015 Mini-Project - Title: Data Science and Artificial Intelligence.
 2. Random Forest
 
 ## Conclusion/What we did we learn from this project?
-- It is not entirely true that graduates from top universities perform better
-- STEM (science, technology, engineering and mathematics) generally has fewer courses as compared to Non-STEM. In general, there may be a large percentage of graduates who enrolled into non-STEM as compared to STEM.
+- Non Top Stem students has a slightly higher gross monthly mean and a higher 75th percentile compared to Top Stem students. 
+- Non Top Stem students generally enjoy a higher gross monthly mean based on the findings from the boxplot.
+- Stem (science, technology, engineering and mathematics) generally has fewer courses as compared to Non-Stem. As such, there may be a large percentage of graduates who enrolled into non-Stem as compared to Stem.
 - Random forest classifier is a better technique than the classfication tree
 - Random forest is able to handle large large volumes of data due to its complexity
 - It is impossible to visualise all the trees when using Random Forest. Therefore,
@@ -30,4 +31,4 @@ SC1015 Mini-Project - Title: Data Science and Artificial Intelligence.
 
 ## References
 - https://data.gov.sg/dataset/graduate-employment-survey-ntu-nus-sit-smu-suss-sutd
-- (BlackBoard NTU School Matetial) https://api.sg.kaltura.com/html5/html5lib/v2.92/mwEmbedFrame.php/p/117/uiconf_id/23448394/entry_id/0_en9oc8qi?wid=_117&iframeembed=true&playerId=kaltura_player&entry_id=0_en9oc8qi
+- (BlackBoard NTU School Material) https://api.sg.kaltura.com/html5/html5lib/v2.92/mwEmbedFrame.php/p/117/uiconf_id/23448394/entry_id/0_en9oc8qi?wid=_117&iframeembed=true&playerId=kaltura_player&entry_id=0_en9oc8qi
