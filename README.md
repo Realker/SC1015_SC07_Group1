@@ -14,7 +14,7 @@ SC1015 Mini-Project - Title: Data Science and Artificial Intelligence.
 
 ## Problem Definition
 - Does entering a top university (NUS, NTU, SMU) guarantee the best career prospects? 
-- Furthermore, how do STEM degree holders perform compared to their counterparts in non-STEM?”
+- How do STEM degree holders perform compared to their counterparts in non-STEM?”
 
 ## Models Used
 1. Classification (Decision Tree)
