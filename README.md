@@ -30,4 +30,4 @@ SC1015 Mini-Project - Title: Data Science and Artificial Intelligence.
 
 ## References
 - https://data.gov.sg/dataset/graduate-employment-survey-ntu-nus-sit-smu-suss-sutd
-- 
+- (BlackBoard NTU School Matetial) https://api.sg.kaltura.com/html5/html5lib/v2.92/mwEmbedFrame.php/p/117/uiconf_id/23448394/entry_id/0_en9oc8qi?wid=_117&iframeembed=true&playerId=kaltura_player&entry_id=0_en9oc8qi
