@@ -3,13 +3,13 @@
 
 #
 SC1015 Mini-Project - Title: Data Science and Artificial Intelligence. 
-In this project, we analyze the relevant numeric and categorical variables in the dataset "University Graduate Starting Income" taken from data.gov.sg. The dataset includes information of the starting salary and employment rate of students from 6 universities in Singapore from 2013 - 2019. We then find out from the data, whether entering a top university (NUS, NTU, SMU) does guarantee the best career prospects.
+In this project, we analyze the relevant numeric and categorical variables in the dataset "University Graduate Starting Income" taken from data.gov.sg. The dataset includes information of the starting salary and employment rate of students from 6 universities in Singapore from 2013 - 2019. U whether entering a top university (NUS, NTU, SMU) does guarantee the best career prospects.
 
 Please view the source code in order from:
 
 
 ## Contributors
-- All - Storytelling, Data Preparation & Data Cleaning
+- All - Storytelling, Data Preparation & Data Cleaning, Slides & Presentation
 - Jonathan Lim Jun Wei  - Data Visualization & Machine Learning (Classification Tree)
 - Joel Chng Ming Xuan - Exploratory Analysis & Machine Learning (Box Plot)
 - Colin Meehan - Exploratory Analysis & Machine Learning (Classification Tree & Random Forest Generator)
@@ -32,7 +32,6 @@ Please view the source code in order from:
 - Collaborating using GitHub
 - 
 
-
 ## What did we learn from this project?
 
 - Handling imbalanced datasets using resampling methods and imblearn package
@@ -44,4 +43,4 @@ Please view the source code in order from:
 - Concepts about Precision, Recall, and F1 Score
 
 ## References
-
+- https://data.gov.sg/dataset/graduate-employment-survey-ntu-nus-sit-smu-suss-sutd
